@@ -1,0 +1,30 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "title": "Sebastian Vettel",
+      "team": "Scuderia Ferrari"
+    },
+    {
+      "id": 2,
+      "title": "Charles Leclerc",
+      "team": "Scuderia Ferrari"
+    },
+    {
+      "id": 3,
+      "Title": "Lewis Hamilton",
+      "Team": "Mercedes-Benz"
+    },
+    {
+      "id": 4,
+      "Title": "Valtteri Bottas",
+      "Team": "Mercedes-Benz"
+    }
+  ],
+  "manufacturer": [
+    {
+      "id": 1,
+      "title": "Scuderia Ferrari"
+    }
+  ]
+}
