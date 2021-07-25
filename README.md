@@ -4,12 +4,10 @@
 VERSION = 1.15.7
 
 
-Welcome! This repository is maintained by Emir Yarkın Yaman for programmers to learn this language easily with these tutorials. Enjoy it :)
-
+Welcome! This repository is contributing by myself for programmers to learn this language easily with these tutorials.
 
 
 # More information about Me
-
 
 
 My Link = [LinkTree](https://linktr.ee/Weinoose)
@@ -26,20 +24,6 @@ My Link = [LinkTree](https://linktr.ee/Weinoose)
 
 ### 5 - Download VS Code Extensions below :
 
-Go
+Go, GoDoc, GoNightly, Go Outliner, vscode-icons
 
-GoDoc
-
-GoNightly
-
-Go Outliner
- 
-vscode-icons
-
-vscode-pdf
-
-Live Share ( For Co-Work )
-
-Synth Wawe ( Brilliant Theme )
-
-### 6 - You are ready to Go :)
+### 6 - You are ready to Go!
