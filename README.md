@@ -24,6 +24,6 @@ My Link = [LinkTree](https://linktr.ee/Weinoose)
 
 ### 5 - Download VS Code Extensions below :
 
-Go, GoDoc, GoNightly, Go Outliner, vscode-icons
+Go, GoDoc, GoNightly, Go Outliner, Go Autotest, Go Critic.
 
 ### 6 - You are ready to Go!
