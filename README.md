@@ -1,7 +1,7 @@
 # Complete Go-Lang Tutorial
 
 
-VERSION = 1.15.7
+VERSION = 1.17.1
 
 
 Welcome! This repository is contributing by myself for programmers to learn this language easily with these tutorials.
