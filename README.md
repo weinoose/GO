@@ -1,16 +1,12 @@
 # Complete Go-Lang Tutorial
 
-
 VERSION = 1.17.1
-
 
 Welcome! This repository is contributing by myself for programmers to learn this language easily with these tutorials.
 
-
 # More information about Me
 
-
-My Link = [LinkTree](https://linktr.ee/Weinoose)
+[LinkedIn](https://www.linkedin.com/in/emiryarkinyaman/)
 
 # Installation Guide
 
