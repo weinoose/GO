@@ -1,0 +1,34 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "title": "Sebastian Vettel",
+      "team": "Scuderia Ferrari"
+    },
+    {
+      "id": 2,
+      "title": "Charles Leclerc",
+      "team": "Scuderia Ferrari"
+    },
+    {
+      "id": 3,
+      "Title": "Lewis Hamilton",
+      "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+      "id": 4,
+      "Title": "Valtteri Bottas",
+      "Team": "Mercedes-AMG Petronas F1 Team"
+    }
+  ],
+  "manufacturer": [
+    {
+      "id": 1,
+      "title": "Scuderia Ferrari"
+    },
+    {
+      "id": 2,
+      "title": "Mercedes-AMG Petronas F1 Team"
+    }
+  ]
+}
