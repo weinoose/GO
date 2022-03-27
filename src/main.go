@@ -7,8 +7,8 @@ import (
 
 func main() {
 
-	// Using all kind of functions that we, had wrote before under the 'src' folder.
-	// Also shows the topic that we saved for tutorial.
+	// Using all kind of functions that we had wrote before under the 'src' folder.
+	// Also shows the topics that tutorial includes.
 
 	src.HelloWorld()
 	src.VariablesAndTypes()
