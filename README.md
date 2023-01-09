@@ -1,8 +1,6 @@
 # Complete GO Tutorial
 
-Welcome! This repository is contributing by myself for programmers to learn this language easily with those tutorials.
-
-Index : Advanced level Go programming language tutorial codes for all kinds of users. Restful API included.
+Welcome! This repository is contributing by myself for programmers to learn this language easily with those tutorials. Advanced level Go programming language tutorial codes for all kinds of users. Restful API included.
 
 # More information about Me
 
