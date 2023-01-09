@@ -8,6 +8,6 @@ Index : Advanced level Go programming language tutorial codes for all kinds of u
 
 [LinkedIn](https://www.linkedin.com/in/emiryarkinyaman/)
 
-[GitHub](https://github.com/Weinoose)
+[GitHub](https://github.com/WEINOOSE)
 
 [Kaggle](https://www.kaggle.com/weinoose)
